@@ -18,4 +18,9 @@ video{
 
 h1{
   color: white;
+  margin: 0;
+  text-align: center;
+}
+.text-banner{
+  background-color: red;
 }
